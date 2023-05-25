@@ -10,7 +10,13 @@ The site contains three sub-pages:
 * CSS
 
 ### Getting Started
-In the project directory, you can run:
+Install in the project directory npm:
+
+```
+npm install
+```
+
+Now you can in the project directory run:
 ```
 npm start
 ```
