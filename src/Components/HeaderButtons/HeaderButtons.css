@@ -1,0 +1,17 @@
+.HeaderButtons{
+    margin-right: 0;
+}
+
+.HeaderButtons button{
+    margin: 10px;
+    font-size: 12px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.HeaderButtons button:hover {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
