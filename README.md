@@ -9,6 +9,12 @@ The site contains three sub-pages:
 * HTML
 * CSS
 
+### Screenshot's
+
+![Registration Form](./readmeImg/1.png)
+![Login Form](./readmeImg/2.png)
+![Main Page](./readmeImg/3.png)
+
 ### Getting Started
 Install in the project directory npm:
 
